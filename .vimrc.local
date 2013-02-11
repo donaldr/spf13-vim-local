@@ -1,8 +1,8 @@
 set mouse=
 set nospell
 
-set background=dark
-colorscheme mustang
+set background=light
+colorscheme solarized
 
 " map ; to : to save all those senseless shifts
 " but wait -- that ; can be useful!
